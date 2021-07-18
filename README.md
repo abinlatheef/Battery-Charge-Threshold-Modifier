@@ -1,5 +1,10 @@
-# Battery Charge Threshold Modifier Scrpit for Linux
+# 🔋Battery Charge Threshold Modifier Script for Linux
 A script to modify battery charging threshold for Linux Laptops.
+
+### Why battery charge threshold?
+> Limiting laptop charging to 60% or 80% can extend your battery life if your prefer using it plugged in most of the time (I heared half charged battery lives the longest).
+> Old laptops may not support this.
+> The supported thresholds  may differ for different vendors. ( My Asus supports 60%, 80% and 100%).
 
 👉 If you haven't set up the systemd service already, come back here after reading [this article](https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html). 👈
 
