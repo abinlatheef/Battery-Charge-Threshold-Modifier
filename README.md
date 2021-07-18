@@ -15,4 +15,6 @@ After setting up the service, if you need to change the threshold value, you hav
 1. Just take this .sh file and save it somewhere convenient.
 2. Run with superuser permission. (`sudo ./bat_threshold.sh` from the same directory).
 3. It will ask you for the new value. Give that.
-4. Done.
+4. Done.!
+
+Thanks for reading guys.🤘
