@@ -19,3 +19,5 @@ After setting up the service, if you need to change the threshold value, you hav
 5. Done.!
 
 Thanks for reading.See you soon.🤘
+
+I have not tested this on other devices. So feel free to report any issues.
