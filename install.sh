@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 path="/etc/systemd/system/battery-charge-threshold.service"
 BAT=$(ls /sys/class/power_supply/ | grep BAT)
 sudo wget https://raw.githubusercontent.com/abinlatheef/Battery-Charge-Threshold-Modifier/main/battery-charge-threshold.service -P /etc/systemd/system/
