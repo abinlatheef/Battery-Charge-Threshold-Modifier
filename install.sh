@@ -9,9 +9,8 @@ systemctl start battery-charge-threshold.service
 
 echo "--CHANGE BATTERY CHARGE THRESHOLD--"
 current=$(awk 'NR == 10 {print $4}' $path)
-echo "Current Threshold = $current"
-echo -n "Enter the required Threshold : "
-read new
+echo "Current Threshold = $current \n"
+read -p "Enter the required Threshold : " new
 sed -i s/$current/$new/ $path
 echo "Threshold modification successful!"
 systemctl daemon-reload
