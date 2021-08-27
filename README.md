@@ -1,4 +1,4 @@
-# 🔋Battery Charge Threshold Modifier Script for Linux
+# 🔋Battery Charge Threshold Modifier Script for Linux [ASUS LAPTOPS]
 A script to modify battery charging threshold for Linux Laptops.
 
 ### Why battery charge threshold?
