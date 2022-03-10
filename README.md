@@ -13,7 +13,7 @@ After setting up the service, if you need to change the threshold value, you hav
 
 ### 🌟 What you have to do? 🌟
 
-First time users. This is all you have to do.
+First time users, this is all you have to do.
 ```
 curl -sSf https://raw.githubusercontent.com/abinlatheef/Battery-Charge-Threshold-Modifier/main/install.sh | sudo sh
 ```
